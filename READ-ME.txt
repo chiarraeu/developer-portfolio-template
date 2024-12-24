@@ -1,11 +1,9 @@
   =>  Template Name    : DevFolio - Developer Portfolio Template
 
-  =>  Template Link    : https://htmlcodex.com/developer-portfolio-template
+  
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template License :   Read the LICENSE.txt file
 
-  =>  Template Author  : HTML Codex
+  =>  Template Author  : DevNexus
 
-  =>  Author Website   : https://htmlcodex.com
-
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+  =>  About DevNexus : We are a free template creators. 
